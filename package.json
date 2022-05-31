@@ -1,0 +1,15 @@
+{
+  "name": "ethers-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucasdcoutinh0/ethers-basics.git",
+  "author": "Lucas Coutinho <lucas.coutinho@eagronom.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./ContractConnection.js"
+  },
+  "dependencies": {
+    "ethers": "^5.6.8",
+    "nodemon": "^2.0.16"
+  }
+}
