@@ -6,7 +6,7 @@
   "author": "Lucas Coutinho <lucas.coutinho@eagronom.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon ./ContractConnection.js"
+    "dev": "nodemon ./ContractWriting.js"
   },
   "dependencies": {
     "ethers": "^5.6.8",
